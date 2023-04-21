@@ -1,2 +1,4 @@
 # Fingerbleed.github.io
 La pagina oficial de LWL!
+
+SI TE RELACIONAS DE CUALQUIER FORMA CON LWL NO REVISES EL CODIGO FUENTE CABRON >:(
