@@ -4,17 +4,20 @@ body {
 }
 
 header {
-    margin-top: 75px;
-    height: 600px;
-
+    margin-top: 10vh;
+    height: 90vh;
+    width: 100vw;
     padding:  10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .friends_forever {
     display: block;
-    height: 350px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    height: 50vh;
 }
 
 .title {
